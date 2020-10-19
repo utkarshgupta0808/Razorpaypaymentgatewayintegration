@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Razorpay payment gateway integration</string>
+    <string name="key">rzp_test_5mg2a3cjs9LNW6</string>
+</resources>
